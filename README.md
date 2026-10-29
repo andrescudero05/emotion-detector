@@ -1,4 +1,4 @@
-# Emotion Detector
+# Final Project
 
 A Python application that estimates five emotions in English text using the IBM Watson NLP emotion service. It exposes a reusable `EmotionDetection` package, a Flask web interface, a JSON endpoint, unit tests, and basic error handling.
 
